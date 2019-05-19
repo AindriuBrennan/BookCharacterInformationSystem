@@ -1,0 +1,2 @@
+# BookCharacterInformationSystem
+This project was a group assignment completed by Gianlucca and myself in semester three, for the Data Structures and Algorithms 1 module. The purpose of this Assignment was to create a custom data structure for storing Author,Book and Character objects, and then create searching and sorting algorithms. Part of the spec assignment spec stipulated that a hashing had to be done, everything else was up to our own choice.
